@@ -74,14 +74,3 @@ Adventure Works Cycles needed clear visibility into sales performance across reg
 ---
 
 *Project developed as part of a Data Analytics learning journey.*
-
-
-
-
-
-
-
-
----
-
-*Project developed as part of a Data Analytics learning journey.*
